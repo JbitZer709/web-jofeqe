@@ -1,4 +1,4 @@
-<div aling='center'>
+<div align='center'>
   Juan Jose Gonzalez Cruz <p>4°Q</p>
 </div>
 
